@@ -15,7 +15,7 @@
     "fs": "0.0.1-security",
     "json2xls": "^0.1.2",
     "lodash": "^4.16.6",
-    "papaparse": "^4.1.2",
+    "papaparse": "^5.3.0",
     "xmlhttprequest": "^1.8.0"
   }
 }
